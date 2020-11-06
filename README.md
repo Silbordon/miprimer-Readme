@@ -56,8 +56,8 @@ git push origin master
 
 [sintaxis de Markdown](https://markdown.es/sintaxis-markdown/)
 
-<!--Se suben imagenes con [!Batman](./Ruta)-->
+<!--Se suben imagenes con ![Batman](./Ruta)-->
 
-[!Batman](./imagen.jpg)
+![Batman](./imagen.jpg)
 
 [Para ver la guia completa de como hacer un Markdown]
